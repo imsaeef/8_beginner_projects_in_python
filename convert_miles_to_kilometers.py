@@ -1,7 +1,6 @@
 # 1 kilometer is = 0.621371 mile
 # 1 mile is = 1.609344 kilometre
 # convert mile to kilometre
-# convert kilometre to mile
 
 try:
     mile = int(input("Mile :- "))
@@ -11,6 +10,7 @@ try:
 except:
     print("You must be enterd a integer number!")
 
+# convert kilometre to mile
 # try:
 #     kilometer = int(input("Kilometer :- "))
 #     convert = 0.621371
